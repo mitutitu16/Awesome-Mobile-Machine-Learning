@@ -80,6 +80,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 
 ## iOS <a name="ioscode"></a>
 * [swift](https://github.com/tensorflow/swift): Swift for TensorFlow Project Home Page.
+- [DailyVox](https://getdailyvox.com) - Voice diary using NaturalLanguage + Speech frameworks for on-device NLP and speech recognition. ([App Store](https://apps.apple.com/app/id6760454642))
 * [swift-models](https://github.com/tensorflow/swift-models): Models and examples built with Swift for TensorFlow.
 * [swift-apis](https://github.com/tensorflow/swift-apis): Swift for TensorFlow Deep Learning Library.
 * [Swift-AI](https://github.com/Swift-AI/Swift-AI): Swift AI includes a collection of common tools used for artificial intelligence and scientific applications on iOS and macOS.
