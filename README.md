@@ -95,6 +95,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [coremltools](https://github.com/apple/coremltools): Core ML community tools contains all supporting tools for CoreML model conversion and validation. This includes Scikit Learn, LIBSVM, Caffe, Keras and XGBoost.
 * [Bender](https://github.com/xmartlabs/Bender): Bender is an abstraction layer over MetalPerformanceShaders useful for working with neural networks.
 * [StyleArt](https://github.com/ileafsolutions/StyleArt): The Style Art library processes images using Core ML with a set of pre trained machine learning models and converts them to different art styles.
+* [VoxRT](https://github.com/orgs/VoxRT/repositories?q=ios+sort%3Astars): A custom inference runtime written in Rust for iOS, tuned for streaming audio on commodity CPUs — no GPU, no NPU, no vendor accelerator in the critical path.
 
 ## Android <a name="androidcode"></a>
 * [awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
@@ -102,12 +103,14 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [AndroidTensorFlowMachineLearningExample](https://github.com/MindorksOpenSource/AndroidTensorFlowMachineLearningExample): Android TensorFlow MachineLearning Example (Building TensorFlow for Android).
 * [onyx](https://github.com/hanuor/onyx): An android library that uses technologies like artificial Intelligence, machine learning, and deep learning to make developers understand the content that they are displaying in their app.
 * [android-malware-analysis](https://github.com/mwleeds/android-malware-analysis): This project seeks to apply machine learning algorithms to Android malware classification.
+* [VoxRT](https://github.com/orgs/VoxRT/repositories?q=android+sort%3Astars): A custom inference runtime written in Rust for Android, tuned for streaming audio on commodity CPUs — no GPU, no NPU, no vendor accelerator in the critical path.
 
 ## Browser <a name="browsercode"></a>
 * [tfjs-models](https://github.com/tensorflow/tfjs-models): Pretrained models for TensorFlow.js
 * [magenta-js](https://github.com/tensorflow/magenta-js): Music and Art Generation with Machine Intelligence in the Browser
 * [tfjs-node](https://github.com/tensorflow/tfjs-node): TensorFlow powered JavaScript library for training and deploying ML models on Node.js
 * [tfjs-examples](https://github.com/tensorflow/tfjs-examples): Examples built with TensorFlow.js
+* [VoxRT](https://github.com/orgs/VoxRT/repositories?q=browser+sort%3Astars): A custom inference runtime written in Rust for Browser, tuned for streaming audio. WebAssembly + SIMD128.
 
 ## Server Side <a name="servercode"></a>
 * [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning#python): A curated list of awesome Machine Learning frameworks, libraries and software.
