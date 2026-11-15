@@ -1,5 +1,6 @@
 # Awesome-Mobile-Machine-Learning
 A list of awesome mobile machine learning resources curated by [Fritz](https://fritz.ai/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning).
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 # Table of Contents
 
